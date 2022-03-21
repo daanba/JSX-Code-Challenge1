@@ -6,7 +6,7 @@ ReactDOM.render(
   <div>
     <h1>My Favourite Foods</h1>
     <ul>
-      <li>One</li>
+      <li>-One</li>
       <li>Two</li>
       <li>Three</li>
     </ul>
